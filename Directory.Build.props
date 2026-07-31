@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Deterministic>true</Deterministic>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <Company>Pars-WoW</Company>
+    <Product>Pars-WoW Master API</Product>
+    <Authors>Pars-WoW Development Team</Authors>
+    <Description>Multi-expansion World of Warcraft master data API.</Description>
+    <Copyright>(c) Pars-WoW</Copyright>
+  </PropertyGroup>
+</Project>
